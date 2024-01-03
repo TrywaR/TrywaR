@@ -10,9 +10,9 @@
 - DevOps: `Docker`, `AWS`, `Firebase`
 
 ## Projects:
-[u0life.com](https://u0life.com): Time, Money, and Task Manager
-[smart-clicks.ru](https://u0life.com): Educational Application
-[laravel_api](https://github.com/TrywaR/laravel_api.loc) - Repository for learning laravel and testing
+[u0life.com](https://u0life.com): Time, Money, and Task Manager  
+[smart-clicks.ru](https://u0life.com): Educational Application  
+[laravel_api](https://github.com/TrywaR/laravel_api.loc) - Repository for learning laravel and testing  
 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/sergey-ilin-777064203/)

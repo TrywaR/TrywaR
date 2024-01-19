@@ -1,6 +1,6 @@
 # Sergei Ilin
 ## Web Developer | Frontend & Backend Enthusiast
-👋 Hi, I'm [Your Name], a web developer passionate about crafting user-centric experiences and robust backend solutions. I thrive on building responsive, scalable web applications and exploring innovative technologies.
+👋 Hi, I'm Sergei Ilin, a web developer passionate about crafting user-centric experiences and robust backend solutions. I thrive on building responsive, scalable web applications and exploring innovative technologies.
 
 ## Skills:
 - Languages: `HTML`, `CSS`, `JavaScript`, `PHP`

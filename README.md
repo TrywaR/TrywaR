@@ -3,11 +3,11 @@
 👋 Hi, I'm Sergei Ilin, a web developer passionate about crafting user-centric experiences and robust backend solutions. I thrive on building responsive, scalable web applications and exploring innovative technologies.
 
 ## Skills:
-- Languages: `HTML`, `CSS`, `JavaScript`, `PHP`
-- Frontend: `jQuery`, `Bootstrap`
+- Languages: `HTML`, `CSS`, `JavaScript`, `PHP`, `XSLT`
+- Frontend: `jQuery`, `Vue.js`
 - Backend: `PHP`, `Laravel`
-- Databases: `MySQL`
-- DevOps: `Docker`, `AWS`, `Firebase`
+- Databases: `MySQL`, `ClickHouse`
+- DevOps: `Docker`, `AWS`, `Firebase`, 
 
 ## Projects:
 [u0life.com](https://u0life.com) - Time, Money, and Task Manager  
